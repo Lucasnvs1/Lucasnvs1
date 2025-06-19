@@ -10,7 +10,7 @@
 
 </div>
 
-<p align="left"><br>- 📚 Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e estou explorando programação e tecnologia.<br></p>
+<p align="left"><br> 📚 Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e estou explorando programação e tecnologia.<br></p>
 
 Em busca de estágio em TI ou Desenvolvimento
 

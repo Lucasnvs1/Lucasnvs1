@@ -11,7 +11,9 @@
 </div>
 
 <p align="left"><br>- 📚 Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e estou explorando programação e tecnologia.
+###
 Em busca de estágio em TI ou Desenvolvimento
+###
 Gosto de aprender, resolver problemas com código e evoluir constantemente. Estou em busca da minha primeira oportunidade para colocar em prática o que venho estudando e crescer junto com um time de tecnologia. <br></p>
 
 ###

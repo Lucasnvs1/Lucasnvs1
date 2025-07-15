@@ -1,47 +1,76 @@
+# 👋 Olá, eu sou o Lucas!
 
-<h3 align="left">Olá! Eu sou o Lucas Neves 👩‍💻</h3>
+<p align="left">
+  Desenvolvedor Frontend em formação, focado em criar interfaces modernas, responsivas e funcionais. <br>
+  Estou me dedicando ao estudo de <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, com o objetivo de transformar cada aprendizado em projetos reais e evoluir como desenvolvedor web.
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucasneves00/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+## Sobre mim
 
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"
+- 📚 Estudante de Desenvolvimento Web
+- 🚀 Focado em Desenvolvimento **Frontend**
+- 💡 Estudando: **HTML**, **CSS**, **JavaScript**
+- 🌱 Buscando criar soluções simples e funcionais
+- 📈 Sempre buscando melhorar meus projetos e minhas habilidades
 
+---
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## ⭐ GitHub Stats
+<a href="https://github.com/seu-usuario-aqui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&langs_count=6&theme=radical"/>
+</a>
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### 🛠️ Ferramentas que uso
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+---
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Estou no começo da minha jornada como <strong>Desenvolvedor Frontend</strong>, estudando e praticando <strong>HTML, CSS e JavaScript</strong>. <br><br>
+  Acredito que aprender construindo projetos é o melhor caminho e, por isso, venho aplicando meus conhecimentos na criação de sites e interfaces que podem ajudar outras pessoas ou empresas.<br><br>
+  Aos poucos, pretendo expandir meus estudos para frameworks como React.js e outras tecnologias modernas do desenvolvimento web 🚀
+</p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail ou me chame no LinkedIn! 💌✨
+</p>
+
+<p align="left">
+  <a href="mailto:seu-email@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=seu-email@gmail.com" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario-linkedin/" alt="LinkedIn"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario-aqui.seu-usuario-aqui&left_color=blueviolet&right_color=purple" width="80" />
 </div>
 
-<p align="left"><br> 📚 Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e estou explorando programação e tecnologia.<br></p>
-
-Em busca de estágio em TI ou Desenvolvimento
-
-Gosto de aprender, resolver problemas com código e evoluir constantemente. Estou em busca da minha primeira oportunidade para colocar em prática o que venho estudando e crescer junto com um time de tecnologia. <br></p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Tecnologias</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  />
-  <img width="1" />
- 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=seu-usuario-aqui&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=seu-usuario-aqui&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-              
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>

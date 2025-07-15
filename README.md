@@ -26,8 +26,6 @@
 </picture>
 
 ###
-
-
 ---
 
 ## ⭐ GitHub Stats

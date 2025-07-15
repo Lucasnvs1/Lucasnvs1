@@ -16,11 +16,7 @@
 ---
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasnvs1/lucasnvs1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasnvs1/lucasnvs1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/lucasnvs1/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/snake.svg" alt="Snake animation" />
 
 ###
 ---

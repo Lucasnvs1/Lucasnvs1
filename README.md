@@ -52,7 +52,7 @@
 </p>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail ou me chame no LinkedIn! 🚀
+  Vamos nos conectar? Me envie um e-mail ou me chame no LinkedIn!  🚀
 </p>
 
 <p align="left">

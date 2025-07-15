@@ -64,9 +64,3 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario-linkedin/" alt="LinkedIn"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario-aqui.seu-usuario-aqui&left_color=blueviolet&right_color=purple" width="80" />
-</div>
-
-

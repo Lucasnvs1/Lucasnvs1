@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00875F&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend+Jr;React+%7C+Next.js+%7C+TypeScript;Focado+em+Clean+Code+%26+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00875F&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend+Jr;React+%7C+Next.js+%7C+TypeScript;Focado+em+Clean+Code+%26+Performance" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -97,14 +97,41 @@ Minha stack principal para desenvolvimento moderno:
 
 ## ⚡ GitHub Stats
 
-## ⚡ GitHub Stats
+<div align="center">
 
-[![Stats do Lucas](https://github-readme-stats.vercel.app/api?username=Lucasnvs1&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Lucasnvs1)
+![Lucas Stats](https://github-readme-stats.vercel.app/api?username=Lucasnvs1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnvs1&layout=compact&langs_count=7&theme=radical)](https://github.com/Lucasnvs1)
+![Lucas Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnvs1&layout=compact&langs_count=7&theme=radical)
+
+</div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📫 Contato
+
+Vamos construir algo incrível juntos? Estou disponível para oportunidades como **Desenvolvedor Frontend Jr**.
+
+<div align="center">
+  <a href="mailto:lucas.neves@gmx.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lucas.neves%40gmx.com-00875F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lucasneves00/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
+<p align="center">
+  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
+</p>

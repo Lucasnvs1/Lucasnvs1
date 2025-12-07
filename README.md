@@ -98,12 +98,24 @@ Minha stack principal para desenvolvimento moderno:
 ## ⚡ GitHub Stats
 
 <div align="center">
-
-![Lucas Stats](https://github-readme-stats.vercel.app/api?username=Lucasnvs1&show_icons=true&theme=radical)
-
-![Lucas Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnvs1&layout=compact&langs_count=7&theme=radical)
-
+  <a href="https://github.com/Lucasnvs1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasnvs1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Lucasnvs1">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lucasnvs1&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnvs1&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Top Langs" />
+</div>>
 
 <br>
 
@@ -132,6 +144,3 @@ Vamos construir algo incrível juntos? Estou disponível para oportunidades como
 </div>
 
 <br>
-<p align="center">
-  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
-</p>

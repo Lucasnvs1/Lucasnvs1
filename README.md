@@ -98,9 +98,11 @@ Minha stack principal para desenvolvimento moderno:
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasnvs1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnvs1&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-</div>
+  <a href="https://github.com/lucasneves00">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasneves00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasneves00&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>>
 
 <br>
 

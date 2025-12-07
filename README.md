@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Lucas!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00875F&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend;React+%7C+Next.js+%7C+TypeScript;Focado+em+Clean+Code+%26+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00875F&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend+Jr;React+%7C+Next.js+%7C+TypeScript;Focado+em+Clean+Code+%26+Performance" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (1º Semestre) com foco em Engenharia de Software Frontend. <br>
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (3º Semestre) com foco em Engenharia de Software Frontend. <br>
   Minha paixão é transformar linhas de código em interfaces robustas, escaláveis e com excelente experiência de usuário.
 </p>
 
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Embora esteja no início da graduação, minha abordagem de desenvolvimento já é voltada para o mercado profissional. Não busco apenas "fazer funcionar", mas sim construir com **arquitetura limpa, tipagem estrita e boas práticas**.
+Como Desenvolvedor Frontend Jr em formação acadêmica, minha abordagem vai além de apenas escrever código. Busco construir aplicações com **arquitetura limpa, tipagem estrita e boas práticas** de mercado.
 
-- 🎓 **Foco atual:** Dominar o ecossistema **React** e Arquitetura de Software.
-- 🚀 **Evolução:** Migrei de projetos simples em JS para aplicações complexas com **TypeScript** e **Gerenciamento de Estado Avançado**.
+- 🎓 **Foco atual:** Aprofundamento no ecossistema **React** e **Next.js** para aplicações de alta performance.
+- 🚀 **Evolução:** Experiência prática criando projetos completos com **TypeScript** e **Gerenciamento de Estado Avançado**.
 - 💡 **Filosofia:** "Código limpo é código que funciona e é fácil de manter."
 - 🏎️ **Hobbies:** Apaixonado por **Fórmula 1** (e buscando aplicar essa precisão no código!).
 
@@ -30,7 +30,7 @@ Embora esteja no início da graduação, minha abordagem de desenvolvimento já 
 
 ## 🚀 Tecnologias e Ferramentas
 
-Minha caixa de ferramentas para construir o futuro da web:
+Minha stack principal para desenvolvimento moderno:
 
 <div align="center">
   <table>
@@ -106,29 +106,4 @@ Minha caixa de ferramentas para construir o futuro da web:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📫 Contato
-
-Vamos construir algo incrível juntos? Estou disponível para estágios e colaborações.
-
-<div align="center">
-  <a href="mailto:lucas.neves@gmx.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-lucas.neves%40gmx.com-00875F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/lucasneves00/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
-<p align="center">
-  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
-</p>
+    <source media="(prefers-color-scheme: dark)" srcset="https://

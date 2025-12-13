@@ -95,40 +95,6 @@ Minha stack principal para desenvolvimento moderno:
 
 ---
 
-## ⚡ GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Lucasnvs1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasnvs1&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Lucasnvs1">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lucasnvs1&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnvs1&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Top Langs" />
-</div>>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucasnvs1/Lucasnvs1/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## 📫 Contato
 
 Vamos construir algo incrível juntos? Estou disponível para oportunidades como **Desenvolvedor Frontend Jr**.
